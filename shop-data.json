@@ -66,8 +66,8 @@
         "name": "Bracket Clamp",
         
         "price": "Rp 249.000",
-        "description": "n.",
-        "image": "",
+        "description": "Pengisi daya nirkabel dengan teknologi fast charging 15W, kompatibel dengan semua smartphone terbaru. Desain tipis dan elegan cocok untuk meja kerja modern.",
+        "image": "https://static.wixstatic.com/media/4d6330_9e1754d97107436f83e64f32c5c412dd~mv2.png/v1/fill/w_689,h_689,al_c,lg_1,q_90,enc_avif,quality_auto/4d6330_9e1754d97107436f83e64f32c5c412dd~mv2.png",
         "link": "https://example.com/beli-wireless-charger"
       },
       {
@@ -75,44 +75,44 @@
         "categoryId": "Hydraulic",
         "name": "Grease Pump",
         "price": "Rp 499.000",
-        "description": ".",
-        "image": "",
+        "description": "Speaker bluetooth portabel dengan suara 360° yang jernih, tahan air IPX7, dan baterai 24 jam. Cocok untuk acara outdoor atau di rumah.",
+        "image": "https://www.multipro-technic.co.id/wp-content/uploads/2019/10/multipro_handtools_auto_hand-grease-pump-manual-20-l_0-11010201020-0.OTO_.KA14.1020_2.jpg",
         "link": "https://example.com/beli-speaker"
       },
       {
         "id": "f001",
         "categoryId": "Sheet Metal",
-        "name": "",
+        "name": "Kemeja Premium Slim Fit",
         "price": "Rp 329.000",
-        "description": ".",
-        "image": "",
+        "description": "Kemeja pria slim fit dengan bahan premium yang nyaman dan breathable. Potongan modern yang cocok untuk acara formal maupun kasual.",
+        "image": "https://images.pexels.com/photos/5698853/pexels-photo-5698853.jpeg",
         "link": "https://example.com/beli-kemeja"
       },
       {
         "id": "f002",
         "categoryId": "Sheet Metal",
-        "name": "",
+        "name": "Celana Chino Stretch",
         "price": "Rp 299.000",
-        "description": ".",
-        "image": "",
+        "description": "Celana chino dengan teknologi stretch yang nyaman untuk aktivitas sepanjang hari. Desain versatile yang mudah dipadukan dengan berbagai outfit.",
+        "image": "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
         "link": "https://example.com/beli-chino"
       },
       {
         "id": "f003",
         "categoryId": "Sheet Metal",
-        "name": "",
+        "name": "Sneakers Minimalist",
         "price": "Rp 499.000",
-        "description": ".",
-        "image": "",
+        "description": "Sneakers dengan desain minimalis yang timeless, terbuat dari kulit premium dan sol yang nyaman. Cocok untuk daily wear dengan berbagai style.",
+        "image": "https://images.pexels.com/photos/1240892/pexels-photo-1240892.jpeg",
         "link": "https://example.com/beli-sneakers",
         "badge": "Limited"
       },
       {
         "id": "f004",
         "categoryId": "Sheet Metal",
-        "name": "",
+        "name": "Jam Tangan Analog Classic",
         "price": "Rp 799.000",
-        "description": ".",
+        "description": "Jam tangan analog dengan desain klasik yang elegan, terbuat dari stainless steel premium dan tahan air 5 ATM. Statement piece yang sempurna.",
         "image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg",
         "link": "https://example.com/beli-jam"
       },
@@ -121,8 +121,8 @@
         "categoryId": "Clamp",
         "name": "Vitamin C Serum",
         "price": "Rp 189.000",
-        "description": ".",
-        "image": "",
+        "description": "Serum wajah dengan kandungan Vitamin C 20% yang membantu mencerahkan kulit, mengurangi noda hitam dan menjaga elastisitas kulit.",
+        "image": "https://images.pexels.com/photos/4465124/pexels-photo-4465124.jpeg",
         "link": "https://example.com/beli-serum"
       },
       {
@@ -130,17 +130,17 @@
         "categoryId": "Clamp",
         "name": "Organic Clay Mask",
         "price": "Rp 129.000",
-        "description": ".",
-        "image": "",
+        "description": "Masker wajah dengan bahan clay organik yang membantu detoksifikasi kulit, mengecilkan pori, dan menjaga kelembapan kulit secara alami.",
+        "image": "https://images.pexels.com/photos/3762876/pexels-photo-3762876.jpeg",
         "link": "https://example.com/beli-masker"
       },
       {
         "id": "k003",
         "categoryId": "Clamp",
-        "name": "",
+        "name": "Essential Oil Diffuser",
         "price": "Rp 349.000",
-        "description": ".",
-        "image": "h",
+        "description": "Diffuser essential oil dengan desain modern, lampu ambient, dan fungsi timer. Menciptakan suasana relaksasi dan menyegarkan ruangan Anda.",
+        "image": "https://images.pexels.com/photos/4046718/pexels-photo-4046718.jpeg",
         "link": "https://example.com/beli-diffuser"
       },
       {
@@ -148,7 +148,7 @@
         "categoryId": "Clamp",
         "name": "Yoga Mat Premium",
         "price": "Rp 299.000",
-        "description": ".",
+        "description": "Matras yoga premium anti slip, ramah lingkungan, dan nyaman untuk berbagai jenis latihan. Ketebalan ideal 6mm dengan tekstur yang perfect grip.",
         "image": "https://images.pexels.com/photos/4325484/pexels-photo-4325484.jpeg",
         "link": "https://example.com/beli-yogamat",
         "badge": "Eco-Friendly"
@@ -156,9 +156,9 @@
       {
         "id": "r001",
         "categoryId": "Oil & lubricant",
-        "name": "",
+        "name": "Minimalist Desk Lamp",
         "price": "Rp 249.000",
-        "description": ".",
+        "description": "Lampu meja dengan desain minimalis, dilengkapi pengaturan kecerahan dan temperatur cahaya. Tampilan elegan yang cocok untuk workspace modern.",
         "image": "https://images.pexels.com/photos/1112598/pexels-photo-1112598.jpeg",
         "link": "https://example.com/beli-lamp"
       },
@@ -167,27 +167,27 @@
         "categoryId": "Oil & lubricant",
         "name": "Ceramic Coffee Set",
         "price": "Rp 379.000",
-        "description": ".",
-        "image": "",
+        "description": "Set kopi keramik handmade yang terdiri dari 4 cangkir dan 1 teko. Desain modern dengan sentuhan rustic yang menambah nilai estetika meja Anda.",
+        "image": "https://images.pexels.com/photos/990824/pexels-photo-990824.jpeg",
         "link": "https://example.com/beli-coffeeset"
       },
       {
         "id": "r003",
         "categoryId": "Oil & lubricant",
-        "name": "",
+        "name": "Indoor Plant Pot",
         "price": "Rp 159.000",
-        "description": ".",
-        "image": "",
+        "description": "Pot tanaman indoor dengan desain geometris modern, terbuat dari keramik berkualitas. Tersedia dalam berbagai ukuran dan warna yang stylish.",
+        "image": "https://images.pexels.com/photos/1084199/pexels-photo-1084199.jpeg",
         "link": "https://example.com/beli-pot",
         "badge": "Populer"
       },
       {
         "id": "r004",
         "categoryId": "Oil & lubricant",
-        "name": "",
+        "name": "Abstract Wall Art",
         "price": "Rp 429.000",
-        "description": "",
-        "image": "",
+        "description": "Lukisan abstrak modern dengan frame kayu premium. Sentuhan artistic yang sempurna untuk dinding rumah atau kantor Anda dengan ukuran 60x90cm.",
+        "image": "https://images.pexels.com/photos/1568607/pexels-photo-1568607.jpeg",
         "link": "https://example.com/beli-art"
       }
     ]
